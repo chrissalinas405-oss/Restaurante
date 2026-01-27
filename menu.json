@@ -1,34 +1,49 @@
 {
-  "restaurante": "EL SASON DEL BUEN GUSTO",
+  "restaurante": "KCB RESTAURANT",
   "categorias": [
     {
-      "id": "comidas",
-      "nombre": "🍽️ Comidas Principales",
+      "nombre": " ENTRADAS",
       "productos": [
-        {"nombre": "Pizza Margarita", "precio": 300, "descripcion": "Salsa de tomate, mozzarella, albahaca fresca"},
-        {"nombre": "Hamburguesa Clásica", "precio": 220, "descripcion": "Carne 200g, lechuga, tomate, queso cheddar"},
-        {"nombre": "Pasta Alfredo", "precio": 150, "descripcion": "Fettuccine con salsa cremosa de parmesano"},
-        {"nombre": "Ensalada César", "precio": 250, "descripcion": "Lechuga romana, crutones, queso parmesano, aderezo césar"}
+        {
+          "nombre": "Ensalada César",
+          "precio": 65,
+          "descripcion": "Lechuga, crutones, queso parmesano"
+        },
+        {
+          "nombre": "Sopa del Día",
+          "precio": 45,
+          "descripcion": "Sopa casera cambia diariamente"
+        }
       ]
     },
     {
-      "id": "bebidas",
-      "nombre": "🥤 Bebidas",
+      "nombre": " PLATOS PRINCIPALES",
       "productos": [
-        {"nombre": "Refresco (500ml)", "precio": 30, "descripcion": "Coca-Cola, Fanta o Sprite"},
-        {"nombre": "Agua ", "precio": 20, "descripcion": "Con o sin gas"},
-        {"nombre": "Jugo Natural", "precio": 25, "descripcion": "Naranja, piña o mango"},
-        {"nombre": "Café", "precio": 20, "descripcion": "Americano o expreso"}
+        {
+          "nombre": "Filete KCB",
+          "precio": 150,
+          "descripcion": "Corte premium con salsa especial"
+        },
+        {
+          "nombre": "Pasta Alfredo",
+          "precio": 85,
+          "descripcion": "Pasta con salsa cremosa"
+        }
       ]
     },
     {
-      "id": "postres",
-      "nombre": "🍰 Postres",
+      "nombre": " BEBIDAS",
       "productos": [
-        {"nombre": "Pastel de Chocolate", "precio": 120, "descripcion": "Torta de chocolate con cobertura de ganache"},
-        {"nombre": "Helado", "precio": 200, "descripcion": "Vainilla, chocolate o fresa"},
-        {"nombre": "Flan", "precio": 350, "descripcion": "Casero con caramelo"},
-        {"nombre": "Fruta de Temporada", "precio": 350, "descripcion": "Porción variada de frutas frescas"}
+        {
+          "nombre": "Jugo Natural",
+          "precio": 25,
+          "descripcion": "Naranja, piña o tamarindo"
+        },
+        {
+          "nombre": "Café Expresso",
+          "precio": 15,
+          "descripcion": "Café negro intenso"
+        }
       ]
     }
   ]
