@@ -1,21 +1,17 @@
-# Menú de Restaurante - Aplicación Kivy
+# 🍽️ KCB Restaurant - Menú Digital
 
-Aplicación de menú interactivo para restaurante desarrollada en Python con Kivy.
+Aplicación de menú digital para restaurante desarrollada en Python/Kivy.
 
-## Características
-- Pantalla inicial con nombre del restaurante
-- 3 categorías de productos (Comidas, Bebidas, Postres)
-- 12 productos en total
-- Carga de datos desde archivo JSON
-- Interfaz responsive que se adapta al tamaño de ventana
-- Navegación entre pantallas con ScreenManager
+## 📱 Características
+- Menú con 3 categorías y 6 productos
+- Interfaz moderna con diseño elegante
+- Carga datos desde archivo JSON
+- Navegación intuitiva entre pantallas
 
-## Requisitos
-- Python 3.8 o superior
-- Kivy 2.3.0
+## 🚀 Cómo ejecutar
 
-## Instalación y ejecución
-1. Clonar repositorio:
-```bash
-git clone https://github.com/tu-usuario/restaurante-kivy.git
-cd restaurante-kivy
+### Opción 1: Desde código fuente
+1. Instalar Python 3.8 o superior
+2. Instalar dependencias:
+   ```bash
+   pip install -r requirements.txt
